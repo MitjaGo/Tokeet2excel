@@ -1,8 +1,6 @@
 channels:
   - conda-forge
-  // using conda
-
-conda install -c anaconda tk
+  - conda install -c anaconda tk
 dependencies:
   - numpy 
   - pandas
