@@ -1,7 +1,0 @@
-.idea/
-venv/
-
-#git init create repository
-#git status  get status file
-#git add . add new files on it
-#git commit -am "your message"
