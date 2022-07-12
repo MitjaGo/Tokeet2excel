@@ -1,6 +1,5 @@
 channels:
   - conda-forge
-  - conda install -c anaconda tk
 dependencies:
   - numpy 
   - pandas
@@ -9,4 +8,4 @@ dependencies:
   - ipyvolume
   - scipy 
   - xlsxwriter
-  - tk
+  - voila
